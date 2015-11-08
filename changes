@@ -1,0 +1,17 @@
+-- changes
+
+
+x> user who is not logged in add tasks as anonymous
+
+x> anonymous user can only see public tasks
+
+x> delete private button for anonymous user
+
+/> beside the login button, it will show a message
+"the user must be logged in in order to edit page"
+
+> there's a configuration page where user can edit size of the font and background color
+
+> owner of the task can set it's priority: high, medium or low
+
+> depending on the priority the task will change color and position where it is displayed
