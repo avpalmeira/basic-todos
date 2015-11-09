@@ -15,3 +15,5 @@ x> delete private button for anonymous user
 > owner of the task can set it's priority: high, medium or low
 
 > depending on the priority the task will change color and position where it is displayed
+
+> users are able to set tasks order by dragging
